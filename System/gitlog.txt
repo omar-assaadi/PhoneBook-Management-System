@@ -1,0 +1,149 @@
+commit a5bae8aa794ccb10aa28231713fdc4de279c400e
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 19:44:49 2023 -0400
+
+    Editied the main function
+
+commit c8137a9836e5b1e556f4b311ee77622cc7e93a8f
+Author: Imaad Bukhari <ibukha2@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 19:24:26 2023 -0400
+
+    Debugging
+
+commit f1086b0b9633691e8e6db7f56be2c13338883b69
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 19:07:17 2023 -0400
+
+    currently solving the delete function problem
+
+commit a5454b41c619d0bc544b64337f06321008afa2bc
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 17:50:51 2023 -0400
+
+    changed Makefile with phonebook instead of Mini5main
+
+commit 33c33201fd184081389e3dddac943e28f76f6892
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 17:34:05 2023 -0400
+
+    changed extern to extern struct
+
+commit 7c46f3f2514652a1268a5f0da497f20d687b8ee7
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 17:27:03 2023 -0400
+
+    corrected modular programing errors
+
+commit 54f12c46a9c94904c1553c2cc4a3c2e4d8e7b2f5
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 17:06:13 2023 -0400
+
+    corrected modular programming
+
+commit 292f3ac109d3d22e2be55bf1818f0b2a7d44bc34
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 16:36:06 2023 -0400
+
+    added #include Mini5phone.c to header
+
+commit e36f486bfe8f73b218155cd583ecdf94891fa8c5
+Author: Omar Assaadi <oassaa@teach-node-07.cs.mcgill.ca>
+Date:   Fri Apr 14 16:19:13 2023 -0400
+
+    added #include stdlib.h
+
+commit cc3e5ccb0afdc3a80e3413f9d2fd50ae60ad9d46
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 14:46:08 2023 -0400
+
+    Edited the default case statement to satisfy assignement instructions
+
+commit 06dcc915e647371cdd219c1381d61df76088dc5a
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 14:39:40 2023 -0400
+
+    Edited the delte function to be able to properly call it in the main menu. Coded case 2 of the main menu and added comments to finalize it
+
+commit 612f2b1246cd2e210c348b55928e97249cd062e4
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 13:37:25 2023 -0400
+
+    Finished writing the comments.
+
+commit c45079bab440e1383cc63316435bc3540d13954f
+Author: Imaad Bukhari <ibukha2@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 03:09:09 2023 -0400
+
+    debugging
+
+commit a10852ee87ede1d09e4c904f43e527461f136fad
+Author: Imaad Bukhari <imaad.bukhari@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 02:56:38 2023 -0400
+
+    Fixed bug that made compile error
+
+commit 2c06f17f94480fe4d7e0d04b27b51f07776af455
+Author: Imaad Bukhari <ibukha2@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 02:51:18 2023 -0400
+
+    Adjusted some functions
+
+commit 1c711ea528523da5aac96b8621fd4ab3341344a8
+Author: Imaad Bukhari <ibukha2@teach-node-09.CS.McGill.CA>
+Date:   Fri Apr 14 02:49:02 2023 -0400
+
+    We didn't need the helpers so I removed them and altered the Makefile
+
+commit d5d4412d8f67d3a1ed922e66b46e5b663caffd3a
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Thu Apr 13 17:19:43 2023 -0400
+
+    Added the clear function to Mini5phone.c.Just needs to be tested now!
+
+commit 4458a6ae1722b6fe45f96a3b101353c371389701
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Thu Apr 13 16:56:49 2023 -0400
+
+    Edited the Phonebook Menu again to inlcude the new additional commands. As well adjusted the while loop in the main menu to be able to quit properly
+
+commit cc6aae3372ca7c264d49de434886ae425a8f0629
+Author: Imaad Bukhari <ibukha2@teach-node-09.CS.McGill.CA>
+Date:   Thu Apr 13 03:17:21 2023 -0400
+
+    Adjusted the save CSV function to work with the linked list
+
+commit 797052f4ee170455fda726f95278217d73170370
+Author: Imaad Bukhari <imaad.bukhari@teach-node-09.CS.McGill.CA>
+Date:   Thu Apr 13 03:14:43 2023 -0400
+
+    adjusted main so that itinitializes the head of the linked list
+
+commit 0ef7190c407f89b165e8bb2166504b4f6af9d20a
+Author: Imaad Bukhari <ibukha2@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 01:57:08 2023 -0400
+
+    Formatted the code to be clearer
+
+commit 3d67ed174e2bd0e241d69c0c816e2e3e58d33368
+Author: Imaad Bukhari <ibukha2@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 01:40:35 2023 -0400
+
+    Added comments and removed unnecessary variables
+
+commit 9fa0d3da2b3bf3bda9a88b8d80c21521e7f7b13f
+Author: Alia Abdelaziz <aabdel62@teach-node-09.CS.McGill.CA>
+Date:   Thu Apr 13 01:21:39 2023 -0400
+
+    Started the delete function. Edited the case statements to the new menu. Added the printf statements to the new menu.
+
+commit 2e046ee24d2680d61da400da96db4a6c1d5370e4
+Author: Imaad Bukhari <ibukha2@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 21:23:56 2023 -0400
+
+    Changed structure and LoadCSV to work with linked list. Added Makefile and helper file with helper functions from sample
+
+commit 9e63912d4e49ec7ac7bae836a6b9f24872d6d871
+Author: Group-045 COMP206 <cs206-group-045@teach-node-05.CS.McGill.CA>
+Date:   Mon Apr 10 23:49:57 2023 -0400
+
+    Added Mini5main.c and Mini5phone.c
